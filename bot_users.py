@@ -1,7 +1,7 @@
 from pyrogram.types import Message
 from pyrogram import Client, filters
-from StringGenBot.db import SESSION
-from StringGenBot.db.users_sql import Users, num_users
+from StringLegendBot.db import SESSION
+from StringLegendBot.db.users_sql import Users, num_users
 
 
 @Client.on_message(~filters.service, group=1)
