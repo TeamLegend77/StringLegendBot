@@ -5,7 +5,7 @@
 ### 🥵 sᴛʀɪɴɢ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ
   <a href="https://github.com/TeamLegend77"><img alt="Website" src="https://img.shields.io/badge/ＲＯＭＥＯ-blue"></a>
  
-[![Stars](https://img.shields.io/github/stars/TeamLegend77/StringLegendBot t?style=social)](https://github.com/TeamLegend77/StringLegendBot/stargazers)
+[![Stars](https://img.shields.io/github/stars/TeamLegend77/StringLegendBott?style=social)](https://github.com/TeamLegend77/StringLegendBot/stargazers)
   [![Forks](https://img.shields.io/github/forks/TeamLegend77/StringLegendBot?style=social)](https://github.com/TeamLegend77/StringLegendBot/fork)
 
 ### 🛠️ ʟᴀɴɢᴜᴀɢᴇs ᴀɴᴅ ᴛᴏᴏʟs
