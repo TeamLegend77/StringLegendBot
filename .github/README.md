@@ -2,10 +2,11 @@
   <img src="https://telegra.ph/file/552c9efa14e2980f717ea.jpg" alt="StringGen">
 </p>
 
+
 ### 🥵 sᴛʀɪɴɢ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ
-  <a href="https://github.com/TeamLegend77"><img alt="Website" src="https://img.shields.io/badge/ＲＯＭＥＯ-blue"></a>
+  <a href="https://github.com/TeamLegend77"><img alt="Website" src="https://img.shields.io/badge/ＲＯＭＥＯ-green"></a>
  
-[![Stars](https://img.shields.io/github/stars/TeamLegend77/StringLegendBott?style=social)](https://github.com/TeamLegend77/StringLegendBot/stargazers)
+[![Stars](https://img.shields.io/github/stars/TeamLegend77/StringLegendBot?style=social)](https://github.com/TeamLegend77/StringLegendBot/stargazers)
   [![Forks](https://img.shields.io/github/forks/TeamLegend77/StringLegendBot?style=social)](https://github.com/TeamLegend77/StringLegendBot/fork)
 
 ### 🛠️ ʟᴀɴɢᴜᴀɢᴇs ᴀɴᴅ ᴛᴏᴏʟs
