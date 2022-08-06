@@ -23,3 +23,4 @@ async def num_users():
         return SESSION.query(Users).count()
     finally:
         SESSION.close()
+
