@@ -1,4 +1,3 @@
-
 from sqlalchemy import Column, BigInteger
 from StringLegendBot.db import BASE, SESSION
 
